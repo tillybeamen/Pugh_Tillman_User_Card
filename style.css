@@ -1,0 +1,60 @@
+
+.container {
+    width: 600px;
+    height: 360px;
+    margin: 100px;
+    background-color: white;
+    padding: ;
+    border: 5px solid rgb(215, 215, 215);
+}
+
+#circle {
+    height: 80px;
+    width: 80px;
+    border-style:groove;
+    border-color: white;
+    border-radius: 100%;
+    
+    margin-left: 20px;
+}
+
+#marker {
+    height: 20px;
+    width: 10px;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+
+#gear {
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+    margin-left: 20px;
+    
+}
+.profile {
+    text-decoration: underline;
+}
+
+.background {
+    width: inherit;
+    height: 80px;
+    background-color: blue;
+    padding-top: 20px;
+}
+ 
+h1 {
+    margin-left: 20px;
+    position: relative;
+    bottom: 10px;
+}
+
+.develop {
+    margin-left: 20px;
+}
+
+.position {
+    position: relative;
+    bottom: 45px;
+    
+}
